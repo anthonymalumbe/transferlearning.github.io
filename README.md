@@ -1,4 +1,4 @@
-# transferlearning.github.io
+# Transfer learning @github.io
 This GitHub blog explores the transfer &amp; sharing of knowledge in data &amp; AI.  
 
 Dive into:  
