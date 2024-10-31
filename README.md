@@ -6,4 +6,6 @@ Dive into:
 * Communicating complex data concepts 
 * Ethical considerations of AI 
 
-Join my journey of learning, experience &amp; thoughts on data &amp; AI knowledge transfer! #Data #AI #KnowledgeSharing #MachineLearning #Ethics
+Join my journey of learning, experience &amp; thoughts on data &amp; AI knowledge transfer! 
+
+#Data #AI #KnowledgeSharing #MachineLearning #Ethics
