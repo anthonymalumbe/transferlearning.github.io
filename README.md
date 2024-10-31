@@ -1,11 +1,16 @@
-# Transfer learning @github.io
-This GitHub blog explores the transfer &amp; sharing of knowledge in data &amp; AI.  
+# 🌐 Transfer learning @github.io 📊🤖
 
-Dive into:  
-* Real-world applications of data &amp; AI 
-* Communicating complex data concepts 
-* Ethical considerations of AI 
+This GitHub blog explores the transfer & sharing of knowledge in **Data & AI**.
 
-Join my journey of learning, experience &amp; thoughts on data &amp; AI knowledge transfer! 
+### 🚀 Dive into:
 
+- 📈 **Real-world applications of Data & AI**
+- 🧠 **Communicating complex data concepts**
+- ⚖️ **Ethical considerations of AI**
+
+Join my journey of **learning**, **experience**, and **thoughts** on **Data & AI knowledge transfer**!
+
+---
+
+### Tags 🏷️
 #Data #AI #KnowledgeSharing #MachineLearning #Ethics
